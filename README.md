@@ -28,6 +28,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/27be7db0-e714-4939-93db-f5464e68a883)
+
+
 ## 🛠️ Stack & outils préférés
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
